@@ -1,0 +1,32 @@
+.social-media-section {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px 0px;
+}
+.bi {
+  font-size: 50px;
+}
+.name {
+  font-size: 20px;
+  font-weight: 300;
+}
+.fbody {
+  font-size: 18px;
+  font-weight: 300px;
+}
+.ftitle {
+  text-align: center;
+  font-weight: 400;
+  font-size: 24px;
+  padding-bottom: 20px;
+}
+.finfo {
+  width: 100%;
+  padding-left: 50px;
+  padding-bottom: 20px;
+}
+.icons {
+  text-align: center;
+}

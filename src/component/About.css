@@ -1,0 +1,47 @@
+.about {
+  background-color: rgb(255, 255, 255);
+  width: 100%;
+}
+.about-section {
+  background-color: rgb(255, 255, 255);
+  width: 80%;
+  margin-top: 60px;
+  margin-left: 120px;
+  margin-bottom: 80px;
+}
+.abt-img {
+  width: 100%;
+  height: 500px;
+}
+.about-info {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+.abt {
+  width: 33.33%;
+  background-color: rgb(255, 255, 255);
+  padding: 40px 30px 0px 0px;
+}
+.about-heading {
+  font-size: 24px;
+  font-weight: 400;
+  padding-bottom: 10px;
+}
+.about-body {
+  letter-spacing: 1px;
+  font-size: 15px;
+  font-weight: 350;
+}
+/* .stock{
+    width:28%;
+}
+.contact{
+    width:28%;
+    /* flex-wrap: wrap; */
+.about-link {
+  color: black;
+}
+.about-link :hover {
+  color: rgb(112, 112, 150);
+}

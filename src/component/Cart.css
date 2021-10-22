@@ -1,0 +1,146 @@
+.cart {
+  background-color: rgb(255, 255, 255);
+  width: 100%;
+  display: flex;
+  padding-left: 80px;
+  padding-bottom: 160px;
+  padding-right: 8px;
+}
+.cart-box {
+  width: 100%;
+  background-color: rgb(255, 255, 255);
+  padding-right: 40px;
+}
+.shop-details {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid black;
+  padding-top: 36px;
+}
+.quantity-box {
+  display: flex;
+  flex-direction: column;
+  padding-top: 55px;
+}
+.quan {
+  padding: 10px 0;
+  text-transform: uppercase;
+  font-size: 14px;
+}
+.price {
+  padding: 5px 0;
+  font-size: 20px;
+  color: black;
+}
+.btn {
+  padding: 14px;
+}
+.shopping-cart {
+  display: flex;
+  flex-direction: column;
+  /* padding: 20px; */
+}
+.s {
+  padding: 10px 0px;
+}
+.s-odd {
+  font-size: 24px;
+  font-weight: 300;
+}
+.shipping-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: right;
+  align-items: flex-end;
+  padding: 30px 2px;
+}
+.shipping {
+  padding: 16px 0;
+  letter-spacing: 1px;
+  font-size: 14px;
+}
+.shipping-no {
+  font-size: 20px;
+}
+.dis-code {
+  padding: 5px 20px;
+}
+.button-field {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 20px 0px;
+}
+.spantag {
+  padding: 0px 10px;
+}
+.continue {
+  padding: 8px 40px;
+  border-radius: 4px;
+  background-color: transparent;
+  color: rgb(184, 176, 176);
+}
+.continue:hover {
+  background-color: rgb(51, 47, 47);
+}
+.update:hover {
+  background-color: rgb(51, 47, 47);
+}
+.update {
+  padding: 8px 30px;
+  border-radius: 4px;
+  background-color: transparent;
+  color: rgb(184, 176, 176);
+}
+.Register-box {
+  /* width:calc(100%/2 -20px); */
+  width: 50%;
+  padding: 20px 0px;
+}
+.cart-heading {
+  font-size: 28px;
+  font-weight: 300;
+}
+.paragraph {
+  font-weight: 350;
+  font-size: 15px;
+  color: rgb(0, 0, 0);
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  width: 80%;
+  text-align: justify;
+}
+.register-input {
+  /* padding-top: 8px; */
+  width: 80%;
+  /* padding: 40px 0px; */
+  /* padding: 10px 20px; */
+}
+.a {
+  padding: 10px 20px 10px 20px;
+}
+.password {
+  width: 80%;
+  text-align: start;
+  padding: 10px 20px;
+}
+.email {
+  width: 70%;
+  padding: 10px 20px;
+  margin-left: 20px;
+}
+.input-field {
+  /* width: ; */
+  padding: 10px 20px;
+  /* text-align: center; */
+}
+.register-btn {
+  padding: 6px 12px;
+  border-radius: 4px;
+  position: absolute;
+  right: 100px;
+  background-color: rgb(51, 47, 47);
+  border: none;
+  color: white;
+}
